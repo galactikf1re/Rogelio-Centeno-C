@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 int main (){
@@ -47,5 +48,18 @@ int main (){
 		printf("%d", sueldo);
 	}*/
 	
-	
+	/*int calificacion = 0;
+	printf("Ingrese su calificacion: ");
+	scanf("%d", &calificacion);
+	if (calificacion >=90 && calificacion <= 100){
+		printf("A");
+	}else if(calificacion >= 80 && calificacion <= 89){
+		printf("B");
+	}else if(calificacion >= 70 && calificacion <= 79){
+		printf("C");
+	}else if(calificacion >= 60 && calificacion <= 69){
+		printf("D");
+	}else{
+		printf("F");
+	}*/
 }
